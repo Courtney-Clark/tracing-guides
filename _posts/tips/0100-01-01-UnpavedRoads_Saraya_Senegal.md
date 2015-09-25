@@ -14,3 +14,5 @@ The roads are all unpaved, but we want to distinguish between them. We will use 
 - *Tracks*. The remaining paths that you see should be classified as "tracks", but tracks are actually not a priority for this project so please do not spend much, if any time on mapping tracks. Tracks are trails and paths that only a 4WD vehicle, a motorbike, or a pedestrian would be able to travel. They will be faint and difficult to see, they might appear and then disappear, and they may look like footpaths between houses or within a single piece of property.
 
 These images should give a general sense of what these features look like. 
+
+![Image of road types in Saraya.] (https://courtneyclark8.files.wordpress.com/2015/08/saraya-roads.png)
